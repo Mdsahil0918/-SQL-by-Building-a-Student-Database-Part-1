@@ -205,3 +205,6 @@ rm students_test.csv
 rm course_test.csv
 rm courses_test.csv
 ls --color=auto
+pg_dump
+--help
+pg_dump --help
